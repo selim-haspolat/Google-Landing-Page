@@ -59,6 +59,9 @@ body{
     height: 38px;
     width: 460px;
 }
+#search:hover{
+    box-shadow: rgb(211, 211, 211) 3px 3px 5px 0;
+}
 .voice-button img{
     width: 15px;
     position: relative;
